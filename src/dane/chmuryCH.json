@@ -1,0 +1,13 @@
+{
+  "0": "brak chmur CH – nie wystepuja chmury Cirrus, Cirrocumulus i Cirrostratus",
+  "1": "Cirrus fibratus lub Cirrus uncinus (nie zaciagajacy nieba) – chmury Cirrus w ksztalcie wlokien, pasm lub haczykow nie zaciagajace stopniowo nieba",
+  "2": "Cirrus spissatus w lawicach lub w postaci poplatanych wiazek, albo Cirrus castellanus lub floccus – geste chmury Cirrus w lawicach lub w postaci poplatanych wiazek, ktore zwykle nie powiekszaja sie i czasami sa podobne do pozostalosci gornych czesci chmur Cumulonimbus, albo chmury Cirrus paczkujace w w ksztalcie wiezyczek lub baszt, badz chmury Cirrus w postaci klebiastych klaczkow",
+  "3": "Cirrus spissatus cumulonimbogenitus – geste chmury Cirrus czesto w ksztalcie kowadla jako pozostalosci gornych czesci chmur Cumulonimbogenitus",
+  "4": "Cirrus uncinus lub Cirrus fibratus lub obie te chmury razem (stopniowo zaciagajacy niebo) – chmury Cirrus w ksztalcie haczykow lub wlokien albo w obu postaciach rownoczesnie, stopniowo zaciagajace niebo; chmury te na ogol wszedzie staja sie gestsze",
+  "5": "Cirrus (w pasmach) i Cirrostratus lub sam Cirrostratus stopniowo zaciagajacy niebo, ale nie wyzej niz 45° nad horyzontem – chmury Cirrus (czesto w pasmach zbiegajacych sie ku jednemu lub dwom przeciwleglym punktom horyzontu) i chmura Cirrostratus, lub tylko chmura Cirrostratus; w obu przypadkach chmury stopniowo zaciagaja niebo i na ogol wszedzie gestnieja, jednak ich ciagla zaslona nie osiaga 45° wzniesienia nad horyzontem",
+  "6": "Cirrus (w pasmach) i Cirrostratus lub sam Cirrostratus stopniowo zaciagajacy niebo, powyzej niz 45° nad horyzontem, lecz nie pokrywa calkowicie nieba – chmury Cirrus (czesto w pasmach zbiegajacych sie ku jednemu lub dwom przeciwleglym punktom horyzontu) i chmura Cirrostratus, w obu przypadkach chmury stopniowo zaciagaja niebo i na ogol wszedzie gestnieja, ciagla zaslona siega powyzej 45° wzniesienia nad horyzontem, lecz nie pokrywa nieba calkowicie",
+  "7": "Cirrostratus pokrywajacy calkowicie niebo – zaslona chmur Cirrostratus pokrywajaca calkowicie niebo",
+  "8": "Cirrostratus nie zaciagajacy i nie pokrywajacy nieba – chmura Cirrostratus nie zaciagajaca stopniowo nieba i nie pokrywajaca nieba calkowicie",
+  "9": "Cirrocumulus sam lub przewazajacy wsrod chmur wysokich – tylko chmury Cirrocumulus labo chmury Cirrocumulus, ktorym towarzysza chmury Cirrus lub Cirrostratus, badz oba te rodzaje chmur, jednak przewazaja chmury Cirrocumulus",
+  "/": "chmury Cirrus, Cirrocumulus i Cirrostratus sa niewidoczne wskutek ciemnosci, mgly, wysokiej zamieci pylowej lub piaskowej albo ciaglej warstwy chmur nizszych"
+}
